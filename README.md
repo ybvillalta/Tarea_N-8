@@ -1,5 +1,5 @@
 1. OBJETIVO GENERAL
-En el siguiente documento se explicará de forma práctica y analítica el comportamiento de la inductancia, el ángulo de fase, capacitores, inductores, corrientes y voltajes en circuitos RC y RL.
+- En el siguiente documento se explicará de forma práctica y analítica el comportamiento de la inductancia, el ángulo de fase, capacitores, inductores, corrientes y voltajes en circuitos RC y RL.
 - OBJETIVOS ESPECIFICOS
 - CIRCUITOS RC
 - Usar números complejos para expresar cantidades fasoriales
