@@ -150,7 +150,6 @@ En el siguiente documento se explicará de forma práctica y analítica el compo
 - ![image](https://user-images.githubusercontent.com/105893980/187107664-72381ecd-28d2-402f-9814-432a9244e782.png)
 - ![image](https://user-images.githubusercontent.com/105893980/187107693-b73c2fb9-fd38-4f90-9627-ec58feb6d919.png)
 - ![image](https://user-images.githubusercontent.com/105893980/187107704-83832d87-933e-458a-bd1b-da312d8bc51a.png)
-- 
 
 4. VIDEOS
 5. CONCLUSIONES
