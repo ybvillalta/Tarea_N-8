@@ -150,8 +150,14 @@ En el siguiente documento se explicará de forma práctica y analítica el compo
 - ![image](https://user-images.githubusercontent.com/105893980/187107664-72381ecd-28d2-402f-9814-432a9244e782.png)
 - ![image](https://user-images.githubusercontent.com/105893980/187107693-b73c2fb9-fd38-4f90-9627-ec58feb6d919.png)
 - ![image](https://user-images.githubusercontent.com/105893980/187107704-83832d87-933e-458a-bd1b-da312d8bc51a.png)
-
+- 
 
 4. VIDEOS
 5. CONCLUSIONES
+- En el proceso de carga del capacitor, el voltaje de este capacitor aumenta de manera exponencial a través del tiempo, tendiendo hacia un valor máximo, que correspondería a un valor cercano al voltaje entregado por la fuente de poder.
+- Cuando se descarga el capacitor, la corriente es negativa, porque invierte el sentido en el cual pasa por el capacitor. Estos valores de corriente varían exponencialmente conforme transcurre el tiempo de descarga, comenzando con un valor máximo de corriente y luego tendiendo a cero.
+- La variación de la impedancia del circuito RL con respecto a la frecuencia, depende del valor de la inductancia y no de la resistencia.
+- La variación de la tangente del ángulo de desfase con respecto a la frecuencia, depende tanto de la resistencia del circuito como de la inductancia.
+- Cuando la inductancia del circuito es cero, el ángulo de desfase toma un valor muy cercano a cero y la impedancia toma el valor de la resistencia del circuito.
+
 6. BIBLIOGRAFIA
