@@ -275,7 +275,7 @@ Se aplica un voltaje sinusoidal de 15 kHz a un circuito RL en serie. ¿Cuál es 
 - ![image](https://user-images.githubusercontent.com/105893980/187113144-49c1b9dc-6ac0-4d42-a584-0254ff66aa1e.png)
 - ![image](https://user-images.githubusercontent.com/105893980/187113161-ee65f0e9-006c-400b-a252-bf2fa66750b6.png)
 - ![image](https://user-images.githubusercontent.com/105893980/187113182-80eb0aea-dc7f-40ab-9f92-7c49e686832b.png)
-- * 34. Determine el desplazamiento de fase y la atenuación desde la entrada hasta la salida para la red en configuración de escalera de la figura 16-72.
+34. Determine el desplazamiento de fase y la atenuación desde la entrada hasta la salida para la red en configuración de escalera de la figura 16-72.
 - ![image](https://user-images.githubusercontent.com/105893980/187113223-6b051f82-0d1c-4db8-8f96-31d55f98da71.png)
 - ![image](https://user-images.githubusercontent.com/105893980/187113232-83a6e128-468b-4aff-bf8c-d841f75a3fbd.png)
 - ![image](https://user-images.githubusercontent.com/105893980/187113253-4d930cd3-a47d-4020-bc82-9a0eab32cf0b.png)
@@ -316,3 +316,4 @@ Se aplica un voltaje sinusoidal de 15 kHz a un circuito RL en serie. ¿Cuál es 
 - La variación de la tangente del ángulo de desfase con respecto a la frecuencia, depende tanto de la resistencia del circuito como de la inductancia.
 - Cuando la inductancia del circuito es cero, el ángulo de desfase toma un valor muy cercano a cero y la impedancia toma el valor de la resistencia del circuito.
 6. BIBLIOGRAFIA
+- Floyd, T. L. (2007). Principios de Circuitos Electricos. Mexico: Pearson Educacion.
