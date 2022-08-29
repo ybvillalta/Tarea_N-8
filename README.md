@@ -304,7 +304,7 @@ Se aplica un voltaje sinusoidal de 15 kHz a un circuito RL en serie. ¿Cuál es 
 - https://youtu.be/wuiNlZxB0fw
 - https://youtu.be/6uwhPDo8jXQ
 5. CONCLUSIONES
-- En el proceso de carga del capacitor, el voltaje de este capacitor aumenta de manera exponencial a través del tiempo, tendiendo hacia un valor máximo, que correspondería a un valor cercano al voltaje entregado por la fuente de poder.
+- En el proceso de carga del capacitor, el voltaje de este capacitor aumenta de manera exponencial a través del tiempo, tendiendo hacia un valor máximo, que correspondería a un valor cercano al voltaje entregado por la fuente de poder
 - Cuando se descarga el capacitor, la corriente es negativa, porque invierte el sentido en el cual pasa por el capacitor. Estos valores de corriente varían exponencialmente conforme transcurre el tiempo de descarga, comenzando con un valor máximo de corriente y luego tendiendo a cero.
 - La variación de la impedancia del circuito RL con respecto a la frecuencia, depende del valor de la inductancia y no de la resistencia.
 - La variación de la tangente del ángulo de desfase con respecto a la frecuencia, depende tanto de la resistencia del circuito como de la inductancia.
