@@ -14,7 +14,7 @@ En el siguiente documento se explicará de forma práctica y analítica el compo
 -	Determinar potencia en circuitos RL
 -	Describir dos ejemplos de aplicaciones de circuito RL
 2. MARCO TEORICO (RESUMEN)
-![image](https://user-images.githubusercontent.com/105893980/187105182-a7318f58-5cdd-4e2d-882b-020a44f28ea0.png)
+- ![image](https://user-images.githubusercontent.com/105893980/187105182-a7318f58-5cdd-4e2d-882b-020a44f28ea0.png)
 ![image](https://user-images.githubusercontent.com/105893980/187105207-e297443c-46b5-4c7f-a3ea-53abe2da7080.png)
 3. RESOLUCION DE EJERCICIOS
 - PARTE 1: CIRCUITOS EN SERIE
@@ -150,7 +150,6 @@ En el siguiente documento se explicará de forma práctica y analítica el compo
 - ![image](https://user-images.githubusercontent.com/105893980/187107664-72381ecd-28d2-402f-9814-432a9244e782.png)
 - ![image](https://user-images.githubusercontent.com/105893980/187107693-b73c2fb9-fd38-4f90-9627-ec58feb6d919.png)
 - ![image](https://user-images.githubusercontent.com/105893980/187107704-83832d87-933e-458a-bd1b-da312d8bc51a.png)
-
 
 
 
