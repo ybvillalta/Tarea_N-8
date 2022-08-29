@@ -159,5 +159,4 @@ En el siguiente documento se explicará de forma práctica y analítica el compo
 - La variación de la impedancia del circuito RL con respecto a la frecuencia, depende del valor de la inductancia y no de la resistencia.
 - La variación de la tangente del ángulo de desfase con respecto a la frecuencia, depende tanto de la resistencia del circuito como de la inductancia.
 - Cuando la inductancia del circuito es cero, el ángulo de desfase toma un valor muy cercano a cero y la impedancia toma el valor de la resistencia del circuito.
-
 6. BIBLIOGRAFIA
