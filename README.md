@@ -296,6 +296,12 @@ Se aplica un voltaje sinusoidal de 15 kHz a un circuito RL en serie. ¿Cuál es 
 42. Con el mismo procedimiento del problema 41, trace la curva de respuesta para la figura 16-62.
 - ![image](https://user-images.githubusercontent.com/105893980/187113556-10bfecb9-6443-444c-b2f1-beec1c462fcd.png)
 - ![image](https://user-images.githubusercontent.com/105893980/187113571-26d4e250-4613-481e-b1d6-db4a24d4ad37.png)
+- ![image](https://user-images.githubusercontent.com/105893980/187117738-9ae46c40-5fd5-4317-a0df-943e1f263a6a.png)
+- ![image](https://user-images.githubusercontent.com/105893980/187117600-3b175c28-e989-403f-bb89-755f48d3c073.png)
+- SECCIÓN 16–9 Localización de fallas
+44. Determine el voltaje a través de cada componente mostrado en la figura 16-73 si L1 está abierto.
+- ![image](https://user-images.githubusercontent.com/105893980/187117644-2bc06d0f-b258-481a-aaab-93b73cbbc12a.png)
+- ![image](https://user-images.githubusercontent.com/105893980/187117654-c4b8522b-b0b7-4067-b3eb-386455025786.png)
 4. VIDEOS
 - CAPITULO 15
 - https://youtu.be/IA6ecKT6lus
